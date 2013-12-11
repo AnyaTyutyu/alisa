@@ -1,0 +1,20 @@
+body{
+    margin:10px;
+}
+table{
+    border:1px solid black;
+}
+th, td {
+    border:1px solid black;
+}
+div {
+    margin-left:40px;
+}
+a:hover
+{
+    font-weight:700;
+}
+#submit{
+   background-color:#F0F0F0;
+    border-radius:5px;
+}
